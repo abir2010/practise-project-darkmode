@@ -1,8 +1,7 @@
-# React + Vite
+## Dark Mode Practise Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Technology used :** React, Tailwind CSS
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- It's a single page application.
+- I have built Dark Mode using Tailwind CSS and used localstorage to save the theme preference of users.
+- There is also an option of system preference theme.
